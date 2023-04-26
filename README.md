@@ -17,3 +17,8 @@ for indexing and extract information.
 3.
 ![My Image](pics/photo_5_2023-04-26_20-20-19.jpg)
 ![My Image](pics/photo_6_2023-04-26_20-20-19.jpg)
+
+## Conclusions
+
+The current implementation of the search engine on the site works, but there are some delays and some irrelevant answers in the top 5-7.
+Using regular parsing with a combination of lang chain without access to data, you can create a search engine "on the knee" that will give more relevant answers
